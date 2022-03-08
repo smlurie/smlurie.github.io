@@ -3,9 +3,8 @@ main:
   - title: "Publications and manuscripts"
     url: /publications/
     
-  - title:"Conference posters"
+  - title: "Conference posters"
     url: /posters/
 
   - title: "CV"
     url: /cv/
-    
