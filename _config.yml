@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Lurie"
+title                    : "Howdy!"
 title_separator          : "-"
 name                     : &name "Sarah Lurie"
 description              : &description "Systems neuroscientist. Brain stimulation and human electrophys."
