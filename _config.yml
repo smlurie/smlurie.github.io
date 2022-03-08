@@ -83,7 +83,7 @@ author:
   name             : "Sarah Lurie"
   avatar           : "combinecrop.gif"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yAfYvLsAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
