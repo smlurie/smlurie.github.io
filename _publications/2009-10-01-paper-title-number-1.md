@@ -1,12 +1,10 @@
 ---
-title: "Human hippocampal responses to network stimulation vary with theta phase"
+title: ["Human hippocampal responses to network stimulation vary with theta phase"](http://smlurie.github.io/files/lurieetal_hippocampal_responses_theta.pdf)
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt:
 date: 2009-10-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.02.28.482345v1'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lurie, S.M., Kragel, J.E., Schuele, S.U., & Voss, J.L. (under review). &quot;Human hippocampal responses to network stimulation vary with theta phase&quot; <i>bioRxiv</i>. 1(1).'
 ---
-
-[Download paper here](http://smlurie.github.io/files/lurieetal_hippocampal_responses_theta.pdf)
