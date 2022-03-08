@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Howdy!"
+title                    : "Sarah Lurie"
 title_separator          : "-"
 name                     : &name "Sarah Lurie"
-description              : &description "Systems neuroscientist. Brain stimulation and human electrophys."
+description              : &description "I'm a systems neuroscientist studying the physiology of memory using brain stimulation & invasive human electrophysiology. Currently @ Northwestern University."
 url                      : https://smlurie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smlurie/smlurie.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sarah Lurie"
   avatar           : "combinecrop.gif"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Systems neuroscientist. Brain stimulation and human electrophys."
   location         : 
   employer         :
   pubmed           : 
