@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-<iframe src='/files/SarahLurieCV.pdf' title='CV'></iframe>
+<embed src='/files/SarahLurieCV.pdf' type="application/pdf">
