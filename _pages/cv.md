@@ -8,4 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
+<a href='/files/SarahLurieCV.pdf' download>Download CV</a>
 <embed src='/files/SarahLurieCV.pdf' type="application/pdf">
