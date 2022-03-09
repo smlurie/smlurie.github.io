@@ -1,6 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hippocampal potentials evoked by network-targeted stimulation vary by theta phase (2021, International Brain Stimulation Conference)"
+excerpt: ""Hippocampal potentials evoked by network-targeted stimulation vary by theta phase (2021, International Brain Stimulation Conference)"
+
+<br/><button type="button" class="collapsible">Show poster</button>
+<div class="content">
+<img src='/images/icbs2021.pdf'>"
+</div>
 collection: portfolio
 ---
 
