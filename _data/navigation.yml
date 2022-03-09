@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Selected posters & publications"
     url: /publications/
     
-  - title: "Conference posters"
-    url: /portfolio/
-
   - title: "CV"
     url: /cv/
