@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Inspiration"
 permalink: /inspiration/
 author_profile: true
