@@ -6,8 +6,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Other projects"
+    url: /software/
+
   - title: "Inspiration"
     url: /inspiration/
 
-  - title: "Software"
-    url: /software/
