@@ -10,6 +10,6 @@ redirect_from:
 
 Hey there!
 
-I'm a neuroscience PhD candidate at Northwestern University. My current projects involve zapping the brain from inside and outside the skull to figure out how people form episodic memories.
+I'm a neuroscience PhD candidate at Northwestern University. My current projects involve stimulating the brain from inside and outside the skull to figure out how people form episodic memories.
 
-I use intracranial local field potentials (sEEG/ECoG), closed-loop direct electrical stimulation, and transcranial magnetic stimulation in conjunction with memory tests to see how the phase of oscillatory ensemble activity primes the brain to encode or retrieve information.
+I use intracranial local field potentials (sEEG/ECoG), closed-loop direct electrical stimulation, and transcranial magnetic stimulation in conjunction with memory testing to see how the phase of oscillatory ensemble activity primes the brain to encode or retrieve information.
