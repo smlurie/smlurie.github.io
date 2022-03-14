@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Other projects"
-permalink: /software/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 ---
 {% for post in site.portfolio reversed %}
